@@ -61,5 +61,43 @@
         ],
         "attempts": 0,
         "lock_time": null
+    },
+    "users": {
+        "jiya": {
+            "password": "C7jVupeXOxmmxserbK29/0W7ZsNrc+OUhilebim05OvtwMPGImIROOAdPi2nUAK6",
+            "data": {
+                "gAAAAABoKAaBYNgAbQTLOIzGA_jo7W4uqVhAP0tGaX7EVb17dOO1Vje2FwlwTrzrnk3hbi_x4Y7v-pRAhoGunC_KF5_Du5excg==": "ElcRZSuH8MYqdHit8EFLBBiaI+1m1EJodWfN2JC+/u2J5GZBwPGjRutQaCi7/4EN"
+            }
+        }
+    },
+    "jiya1": {
+        "salt": "s7lPV2YaiQHLWf7p8RNGTg==",
+        "passkey_hash": "48pB763UniWR3DqbbHk4U/PgM0LVdwEONQoWfH4pYfQ=",
+        "data": [
+            {
+                "encrypted": "gAAAAABoKAfMl99uks8NZOyCv1bpb6sMdrJ9bJaui3p1sncSfR6Avs_c8zsA9jbEmmFRlpT5HPZHsS3PsdykJwIWl5Qzmag1Fg==",
+                "timestamp": "2025-05-17T08:51:40.211561"
+            },
+            {
+                "encrypted": "gAAAAABoKAfx_mOYAtlwYvHgel1vM9jAZmPBQEqY-CktrWgqav_fbvDnbNkIlCXS_ssAkm9GbePuY8W7Q9JpQDvjr12jbExhEw==",
+                "timestamp": "2025-05-17T08:52:17.181854"
+            }
+        ],
+        "attempts": 0,
+        "lock_time": null
+    },
+    "jiya2": {
+        "salt": "hgZQwn1mB5lHDclMIkNs6A==",
+        "passkey_hash": "2PHd1Tp7o0MhzmhKxwsxzstmvaCDV3XZu+TMSbRcEuc=",
+        "data": [],
+        "attempts": 0,
+        "lock_time": null
+    },
+    "jiya5": {
+        "salt": "o5L2/AJQdOGm0lrt+K8miA==",
+        "passkey_hash": "qoN06QZ6rsxYurAucDUkyVZnuiwywtCbcJwEcK41KIQ=",
+        "data": [],
+        "attempts": 0,
+        "lock_time": null
     }
 }
